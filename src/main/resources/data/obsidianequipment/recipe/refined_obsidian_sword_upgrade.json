@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    " i ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick",
+      "i": {
+        "item": "obsidianequipment:refined_obsidian_ingot"
+      }
+    }
+  },
+  "result": {
+    "id": "obsidianequipment:refined_obsidian_sword",
+    "count": 1
+  }
+}

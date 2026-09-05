@@ -1,0 +1,12 @@
+{
+  "itemGroup.obsidianequipment.main": "黒曜石装備",
+
+  "item.obsidianequipment.obsidian_dust": "黒曜石の粉",
+  "item.obsidianequipment.refined_obsidian_ingot": "精製黒曜石インゴット",
+
+  "item.obsidianequipment.refined_obsidian_sword": "精製黒曜石の剣",
+  "item.obsidianequipment.refined_obsidian_pickaxe": "精製黒曜石のツルハシ",
+  "item.obsidianequipment.refined_obsidian_axe": "精製黒曜石の斧",
+  "item.obsidianequipment.refined_obsidian_shovel": "精製黒曜石のシャベル",
+  "item.obsidianequipment.refined_obsidian_hoe": "精製黒曜石のクワ"
+}

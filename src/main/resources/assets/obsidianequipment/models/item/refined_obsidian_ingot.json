@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "obsidianequipment:item/refined_obsidian_ingot"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "obsidianequipment:refined_obsidian_ingot"
+    }
+  },
+  "result": {
+    "id": "obsidianequipment:refined_obsidian_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "obsidianequipment:obsidian_dust",
+    "count": 1
+  },
+  "experience": 1.0,
+  "cookingtime": 400
+}

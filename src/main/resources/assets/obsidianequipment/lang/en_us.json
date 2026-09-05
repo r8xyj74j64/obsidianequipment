@@ -1,0 +1,12 @@
+{
+  "itemGroup.obsidianequipment.main": "Obsidian Equipment",
+
+  "item.obsidianequipment.obsidian_dust": "Obsidian Dust",
+  "item.obsidianequipment.refined_obsidian_ingot": "Refined Obsidian Ingot",
+
+  "item.obsidianequipment.refined_obsidian_sword": "Refined Obsidian Sword",
+  "item.obsidianequipment.refined_obsidian_pickaxe": "Refined Obsidian Pickaxe",
+  "item.obsidianequipment.refined_obsidian_axe": "Refined Obsidian Axe",
+  "item.obsidianequipment.refined_obsidian_shovel": "Refined Obsidian Shovel",
+  "item.obsidianequipment.refined_obsidian_hoe": "Refined Obsidian Hoe"
+}
